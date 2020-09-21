@@ -1,0 +1,7 @@
+1. Explain how git enables saving code.
+
+Git allows users to save code by providing a codebase, or repository, for code at any period in development. The working code directory can then be used to experiment and make changes which may or may not be committed to the repository.
+
+2. Explain how git enables tracking code.
+
+3. Explain how git enables sharing code.
