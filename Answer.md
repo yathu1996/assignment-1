@@ -5,4 +5,4 @@ Git allows users to save code by providing a codebase, or repository, for code a
 2. Explain how git enables tracking code.
 Git enables tracking code by saving snapshots of a repository's state throughout development. This way, the code and file's individual changes can be tracked. Timestamps and user ID's are attached to every commit allowing not only the state of the code to be tracked, but also who is changing it.
 
-3. Explain how git enables sharing code.
+3. Explain how git enables sharing code.Git enables tracking code by saving snapshots of a repository's state throughout development. This way, the code and file's individual changes can be tracked. Timestamps and user ID's are attached to every commit allowing not only the state of the code to be tracked, but also who is changing it.
